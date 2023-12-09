@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>My Very Own</title>
+   <link rel="stylesheet" href="css/styles.css">
+   <style>
+       body{
+           font-family: Georgia, 'Times New Roman', Times, serif;
+           background-color: rgb(6, 6, 77);
+           color: blanchedalmond;
+           background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSL3z3Yrbaq_-2NQ6b13gVb0p7V2vD85UG3g&usqp=CAU");
+           background-repeat: no-repeat;
+           background-size: cover;
+             }
+       img{
+           display:block;
+           border: solid purple 3px;
+           padding: 5px;
+           margin: 3px;
+           margin-top: 5px;
+           margin: auto;
+           margin-bottom: 5px;
+
+
+       }
+       h3{
+           border: dashed green 5px;
+           text-align: center;
+  
+       }
+       .lotr{
+           font-family: cursive;
+           color: red;
+           font-size: 50px;
+           font-weight: bold;
+           border: dotted 3px fuchsia;
+           background-color: greenyellow;
+
+
+
+
+       }
+       .lotr:hover{
+           text-decoration: line-through;
+           font-size: 300%;
+           background-color: black;
+           color: aqua;
+           border: solid orange 10px;
+       }
+   </style>
+
+
+</head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Taylor's website</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+
+
+<body>
+   <!--this is a comment-->
+   <!-- write a bunch of text -->
+   <h1>Taylor Bullock</h1>
+   <h3>Your IS 201 professor</h3>
+   <p id="major">I am a the very model of a modern major general</p>
+
+
+   <span id="stuff">This is my information about stuff</span>
+
+
+   <br>
+   <a href="https://www.byu.edu" target="_blank">BYU</a>
+   <br>
+
+
+   <a href="../resume.html">Resume</a>
+   <a href="../html/hobbies.html">Hobbies</a>
+
+
+   <br>
+
+
+   <img src="https://media.licdn.com/dms/image/D5603AQHdVhwyHtpIsA/profile-displayphoto-shrink_200_200/0/1668445184344?e=2147483647&v=beta&t=RDUlG4D_qzSs06NxA9OYJAq0qc0OmA1WNaK7E-qNgvs" width="25%">
+   <br>
+
+
+   <a href="https://www.pinterest.com/pin/31525266133223009/"><img src="SAGE.jpeg"><a
+
+
+   <br>
+   <a href="#">Back to Top</a>
+   <br>
+   <a href="#major">Go to Major</a>
+   <br>
+   <a href="#stuff">Go to Stuff</a>
+</body>
+</html>
